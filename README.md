@@ -1,8 +1,23 @@
-# React + Vite
+## Project Overview
+This project is a responsive portfolio website built using React.js. It features light and dark modes, an AI-generated hero image of my photo, and a modern, interactive design. The website showcases personal or professional work and is ideal for developers, designers, or anyone building their portfolio.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- Responsive Design: Works seamlessly on all screen sizes (desktop, tablet, and mobile).
+- Light/Dark Mode: Toggle between light and dark themes for better user experience.
+- Modern UI/UX: Clean layout, cartoon hero image, and smooth transitions.
+- Project Showcase: Sections to display your work, skills, and contact details.
+- Deployment Ready: Hosted on Netlify for fast and reliable access.
 
-Currently, two official plugins are available:
+## Tech Stack
+- React.js
+- HTML5 & CSS3
+- JavaScript
+- Netlify (for deployment)
+- Visual Studio Code (code editor)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Credits
+This project is based on the React Responsive Portfolio Website Tutorial by How to Become a Developer on YouTube.
+Link: https://youtu.be/ZpIel9cv4Jk?si=F8K_h-WH6051Jc0l
+
+
+
