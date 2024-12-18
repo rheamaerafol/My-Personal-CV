@@ -1,9 +1,7 @@
-import styles from './ProjectsStyles.module.css';
-import viberr from '../../assets/viberr.png';
-import freshBurger from '../../assets/fresh-burger.png';
-import hipsster from '../../assets/hipsster.png';
-import fitLift from '../../assets/fitlift.png';
-import ProjectCard from '../../common/ProjectCard';
+import styles from "./ProjectsStyles.module.css";
+import designs from "../../assets/Designs.png";
+import portfolio from "../../assets/profile.png";
+import ProjectCard from "../../common/ProjectCard";
 
 function Projects() {
   return (
@@ -11,28 +9,16 @@ function Projects() {
       <h1 className="sectionTitle">Projects</h1>
       <div className={styles.projectsContainer}>
         <ProjectCard
-          src={viberr}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Viberr"
-          p="Streaming App"
+          src={portfolio}
+          link="https://github.com/rheamaerafol/My-Personal-CV"
+          h3="Portfolio"
+          p="Personal Portfolio"
         />
         <ProjectCard
-          src={freshBurger}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Fresh Burger"
-          p="Hamburger Restaurant"
-        />
-        <ProjectCard
-          src={hipsster}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Hipsster"
-          p="Glasses Shop"
-        />
-        <ProjectCard
-          src={fitLift}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="FitLift"
-          p="Fitness App"
+          src={designs}
+          link="https://github.com/rheamaerafol/UI_UX_Designs"
+          h3="UI/UX Design"
+          p="Website Interfaces"
         />
       </div>
     </section>

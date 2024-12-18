@@ -1,5 +1,5 @@
 import styles from './HeroStyles.module.css';
-import heroImg from '../../assets/profile.png';
+import heroImg from '../../assets/Me.png';
 import sun from '../../assets/sun.svg';
 import moon from '../../assets/moon.svg';
 import facebookLight from '../../assets/facebook_light.svg';
