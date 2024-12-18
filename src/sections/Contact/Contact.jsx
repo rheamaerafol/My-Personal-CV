@@ -13,7 +13,7 @@ function Contact() {
             type="text"
             name="name"
             id="name"
-            placeholder="Name"
+            placeholder="This contact form is under construction. email me at @rheamae.rafol@lsu.edu.ph" 
             required
           />
         </div>
@@ -25,7 +25,7 @@ function Contact() {
             type="text"
             name="email"
             id="email"
-            placeholder="Email"
+            placeholder="This contact form is under construction. email me at @rheamae.rafol@lsu.edu.ph"
             required
           />
         </div>
@@ -36,7 +36,7 @@ function Contact() {
           <textarea
             name="message"
             id="message"
-            placeholder="Message"
+            placeholder="This contact form is under construction. email me at @rheamae.rafol@lsu.edu.ph"
             required></textarea>
         </div>
         <input className="hover btn" type="submit" value="Submit" />
