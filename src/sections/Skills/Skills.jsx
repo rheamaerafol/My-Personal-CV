@@ -19,14 +19,12 @@ function Skills() {
       <hr />
       <div className={styles.skillList}>
         <SkillList src={checkMarkIcon} skill="React" />
-        <SkillList src={checkMarkIcon} skill="Tailwind CSS" />
+        <SkillList src={checkMarkIcon} skill="Machine Learning" />
       </div>
       <hr />
       <div className={styles.skillList}>
         <SkillList src={checkMarkIcon} skill="Windows Form" />
         <SkillList src={checkMarkIcon} skill="Outsystem" />
-        <SkillList src={checkMarkIcon} skill="Machine Learning" />
-        <SkillList src={checkMarkIcon} skill="Bootstrap" />
       </div>
     </section>
   );
